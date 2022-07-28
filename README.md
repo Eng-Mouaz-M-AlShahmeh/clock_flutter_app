@@ -2,6 +2,12 @@
 
 Developed by Eng Mouaz M AlShahmeh
 
+## ScreenShots from App
+
+![Screenshot_20220728_093253](https://user-images.githubusercontent.com/86870601/181451062-9e806666-c555-4477-898a-48a98e044a5a.png)
+
+![Screenshot_20220728_092836](https://user-images.githubusercontent.com/86870601/181451107-02a448a4-af83-4e94-b7d9-0cddde8d52a7.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
